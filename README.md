@@ -1,6 +1,8 @@
 # Audio Visualizer Project
 
-Este projeto implementa um visualizador de áudio que captura o áudio do dispositivo e envia dados para um ESP, controlado por uma interface gráfica feita com Flet.
+Este projeto implementa um visualizador de áudio que captura o áudio do dispositivo e envia dados para um ESP8266, controlado por uma interface gráfica feita com Flet.
+
+![Image](https://github.com/user-attachments/assets/e2663158-fa7e-4ff1-9741-2523148fbb43)
 
 ## Estrutura do Projeto
 
